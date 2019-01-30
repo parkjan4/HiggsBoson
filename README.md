@@ -3,7 +3,7 @@ CS433 - Machine Learning, 2018, EPFL
 
 This is the directory of the project for the course "Machine Learning" fall 2018, EPFL. This directory contains Python files for project implementation. For more detailed explanation of the project please refer to the report (`Report.pdf`). 
 
-The project presents a challenge of correctly classifying Higgs bosons based on the 30-feature particle accelerator data from CERN. This is a classic binary classification task in which we are specifically investigating the strength of and the extent to which linear regression methods can achieve the task.
+The project presents a challenge of correctly classifying Higgs bosons based on the 30-feature particle accelerator data from CERN. This is a classic binary classification task, in which we are specifically investigating the strength of and the extent to which linear regression methods can achieve the task.
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ To install the previously mentioned libraries a requirements.txt file is provide
 
 The project has the following folder (and file) structure:
 
-* `data/`. Directory containing original dataset from CERN.
+* `data/`. Contains zipped train and test dataset from CERN.
 
 * `project/`. Folder containing the actual code files for the project:
     * `gephi/` Folder containing gephi files for visualization and exploration of the network.
