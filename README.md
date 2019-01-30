@@ -23,12 +23,11 @@ Besides that (and the built-in Python libraries), the following packages are use
 
 To install the previously mentioned libraries a requirements.txt file is provided. The user is free to use it for installing the previously mentioned libraries.  
 
-
 ## Project Structure
 
 The project has the following folder (and file) structure:
 
-* `data/`. Directory containing original dataset from LINQS. [online] Linqs.soe.ucsc.edu. Available at: https://linqs.soe.ucsc.edu/node/236 [Accessed 11 Jan. 2019].
+* `data/`. Directory containing original dataset from CERN.
 
 * `project/`. Folder containing the actual code files for the project:
     * `gephi/` Folder containing gephi files for visualization and exploration of the network.
