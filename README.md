@@ -27,7 +27,7 @@ To install the previously mentioned libraries a requirements.txt file is provide
 
 ## Project Structure
 
-The project has the following folder (and file) structure:
+The `project/` directory has the following folder (and file) structure:
 
 * `data/`. Contains original train and test dataset from CERN.
 
